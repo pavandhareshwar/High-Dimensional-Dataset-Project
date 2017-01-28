@@ -1,0 +1,39 @@
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_13_album_1_track_1.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_40_album_5_track_2.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_9_album_2_track_10.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_75_album_1_track_2.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_92_album_1_track_4.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_122_album_1_track_2.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_14_album_1_track_3.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_19_album_1_track_1.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_26_album_1_track_1.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_45_album_2_track_1.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_67_album_2_track_1.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_74_album_1_track_1.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_81_album_1_track_1.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_97_album_1_track_2.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_104_album_1_track_2.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_114_album_1_track_1.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_122_album_4_track_2.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_124_album_2_track_3.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_15_album_2_track_3.wav
+
+D:\UC Boulder\Courses\Search Engines and Analysis of High Dimensional datasets\Project\ecen5322\Volumes\project\tracks\artist_32_album_2_track_1.wav

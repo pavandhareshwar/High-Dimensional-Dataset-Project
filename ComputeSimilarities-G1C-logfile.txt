@@ -1,0 +1,495 @@
+13-Nov-2016 17:38:09
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+13-Nov-2016 17:51:08
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+13-Nov-2016 17:51:41
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+13-Nov-2016 18:08:55
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+13-Nov-2016 18:09:42
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+13-Nov-2016 18:10:09
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+13-Nov-2016 18:14:31
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+13-Nov-2016 18:16:57
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+13-Nov-2016 18:20:27
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+13-Nov-2016 18:26:42
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+13-Nov-2016 18:31:27
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+13-Nov-2016 18:44:55
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+13-Nov-2016 18:45:39
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+18-Nov-2016 20:12:54
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+18-Nov-2016 20:14:49
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+18-Nov-2016 20:15:36
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+18-Nov-2016 20:20:36
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+18-Nov-2016 20:21:17
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+18-Nov-2016 20:21:51
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+7/10 CS est rem 0.024787m, est tot 0.061967m
+18-Nov-2016 20:22:51
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+18-Nov-2016 20:23:34
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+4/10 CS est rem 0m, est tot 0m
+18-Nov-2016 20:24:12
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+done. exiting ...
+18-Nov-2016 20:24:18
+7/10 CS est rem 0.03276m, est tot 0.081901m
+done. exiting ...
+18-Nov-2016 20:24:29
+18-Nov-2016 20:31:43
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+18-Nov-2016 20:32:35
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+18-Nov-2016 20:34:33
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+19/190 CS est rem 0m, est tot 0m
+18-Nov-2016 22:22:08
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+21-Nov-2016 16:24:36
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+19/190 CS est rem 0m, est tot 0m
+21-Nov-2016 16:34:12
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+19/190 CS est rem 0m, est tot 0m
+21-Nov-2016 16:37:16
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+21-Nov-2016 16:38:15
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+19/190 CS est rem 0m, est tot 0m
+21-Nov-2016 16:40:04
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+19/190 CS est rem 0m, est tot 0m
+21-Nov-2016 16:41:32
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+19/190 CS est rem 0m, est tot 0m
+21-Nov-2016 16:45:11
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+19/190 CS est rem 0m, est tot 0m
+21-Nov-2016 17:11:13
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+-- caught error!
+Undefined function or variable 'count'.
+21-Nov-2016 17:11:13
+21-Nov-2016 17:11:37
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+728/265356 CS est rem 0m, est tot 0m
+3630/265356 CS est rem 4.4254m, est tot 4.4867m
+6516/265356 CS est rem 3.9357m, est tot 4.0347m
+9386/265356 CS est rem 3.6946m, est tot 3.8301m
+12240/265356 CS est rem 3.6081m, est tot 3.7825m
+15078/265356 CS est rem 3.5607m, est tot 3.7752m
+17900/265356 CS est rem 3.4831m, est tot 3.7351m
+20706/265356 CS est rem 3.4163m, est tot 3.7054m
+23496/265356 CS est rem 3.3697m, est tot 3.6971m
+26270/265356 CS est rem 3.313m, est tot 3.677m
+29028/265356 CS est rem 3.2515m, est tot 3.6509m
+31770/265356 CS est rem 3.204m, est tot 3.6398m
+34496/265356 CS est rem 3.1722m, est tot 3.6462m
+37206/265356 CS est rem 3.1171m, est tot 3.6254m
+39900/265356 CS est rem 3.0765m, est tot 3.6209m
+42578/265356 CS est rem 3.0691m, est tot 3.6557m
+45240/265356 CS est rem 3.0362m, est tot 3.6602m
+47886/265356 CS est rem 2.9969m, est tot 3.6568m
+50516/265356 CS est rem 2.9514m, est tot 3.6453m
+53781/265356 CS est rem 2.8702m, est tot 3.5997m
+56375/265356 CS est rem 2.8674m, est tot 3.6409m
+58953/265356 CS est rem 2.8302m, est tot 3.6385m
+61515/265356 CS est rem 2.8234m, est tot 3.6754m
+63426/265356 CS est rem 2.836m, est tot 3.7268m
+65960/265356 CS est rem 2.8092m, est tot 3.7384m
+21-Nov-2016 17:12:55
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+728/265356 CS est rem 0m, est tot 0m
+1455/265356 CS est rem 89.426m, est tot 89.9187m
+2906/265356 CS est rem 47.8016m, est tot 48.3307m
+3630/265356 CS est rem 42.0035m, est tot 42.5859m
+5075/265356 CS est rem 31.7696m, est tot 32.3889m
+6516/265356 CS est rem 26.6924m, est tot 27.3642m
+7235/265356 CS est rem 26.1899m, est tot 26.9239m
+8670/265356 CS est rem 22.757m, est tot 23.5256m
+9386/265356 CS est rem 26.4013m, est tot 27.3693m
+11528/265356 CS est rem 22.1628m, est tot 23.1692m
+13661/265356 CS est rem 19.3354m, est tot 20.3848m
+15785/265356 CS est rem 17.1925m, est tot 18.2798m
+18603/265356 CS est rem 14.9027m, est tot 16.0262m
+21405/265356 CS est rem 13.2551m, est tot 14.4181m
+24885/265356 CS est rem 11.5654m, est tot 12.7622m
+27651/265356 CS est rem 10.6397m, est tot 11.8773m
+30401/265356 CS est rem 9.8405m, est tot 11.1138m
+33816/265356 CS est rem 8.9514m, est tot 10.2587m
+37206/265356 CS est rem 8.2702m, est tot 9.6188m
+39900/265356 CS est rem 7.8513m, est tot 9.2408m
+43245/265356 CS est rem 7.3168m, est tot 8.7414m
+46565/265356 CS est rem 6.8829m, est tot 8.3478m
+49860/265356 CS est rem 6.5133m, est tot 8.0203m
+53130/265356 CS est rem 6.1859m, est tot 7.7344m
+56375/265356 CS est rem 5.8958m, est tot 7.4863m
+59595/265356 CS est rem 5.6296m, est tot 7.26m
+62790/265356 CS est rem 5.3885m, est tot 7.0587m
+65960/265356 CS est rem 5.1679m, est tot 6.8774m
+69105/265356 CS est rem 4.9664m, est tot 6.7152m
+71603/265356 CS est rem 4.8412m, est tot 6.6303m
+74703/265356 CS est rem 4.6523m, est tot 6.4752m
+77778/265356 CS est rem 4.4835m, est tot 6.3425m
+80828/265356 CS est rem 4.3326m, est tot 6.2303m
+83853/265356 CS est rem 4.1889m, est tot 6.1241m
+86853/265356 CS est rem 4.0532m, est tot 6.0253m
+89828/265356 CS est rem 3.9283m, est tot 5.9387m
+92778/265356 CS est rem 3.8048m, est tot 5.8502m
+95703/265356 CS est rem 3.691m, est tot 5.7731m
+98603/265356 CS est rem 3.5819m, est tot 5.6999m
+101478/265356 CS est rem 3.4792m, est tot 5.6336m
+104328/265356 CS est rem 3.3831m, est tot 5.5749m
+107153/265356 CS est rem 3.2883m, est tot 5.5155m
+109953/265356 CS est rem 3.1967m, est tot 5.4585m
+112728/265356 CS est rem 3.1106m, est tot 5.408m
+116025/265356 CS est rem 3.0014m, est tot 5.3334m
+118745/265356 CS est rem 2.9268m, est tot 5.2972m
+121440/265356 CS est rem 2.857m, est tot 5.2677m
+124110/265356 CS est rem 2.7859m, est tot 5.2339m
+126755/265356 CS est rem 2.7143m, est tot 5.1965m
+129375/265356 CS est rem 2.6445m, est tot 5.1606m
+131970/265356 CS est rem 2.5788m, est tot 5.1302m
+135051/265356 CS est rem 2.4956m, est tot 5.0821m
+138096/265356 CS est rem 2.4183m, est tot 5.0425m
+141105/265356 CS est rem 2.344m, est tot 5.0059m
+144078/265356 CS est rem 2.2722m, est tot 4.9715m
+147015/265356 CS est rem 2.2011m, est tot 4.9356m
+149916/265356 CS est rem 2.1335m, est tot 4.904m
+152781/265356 CS est rem 2.0676m, est tot 4.8735m
+155610/265356 CS est rem 2.0028m, est tot 4.8425m
+158403/265356 CS est rem 1.9411m, est tot 4.8159m
+161160/265356 CS est rem 1.8809m, est tot 4.7901m
+163881/265356 CS est rem 1.8226m, est tot 4.7661m
+166566/265356 CS est rem 1.7663m, est tot 4.7444m
+169653/265356 CS est rem 1.6993m, est tot 4.7117m
+172691/265356 CS est rem 1.6368m, est tot 4.6872m
+175680/265356 CS est rem 1.5755m, est tot 4.662m
+178620/265356 CS est rem 1.5168m, est tot 4.6405m
+181920/265356 CS est rem 1.4489m, est tot 4.6079m
+184755/265356 CS est rem 1.3948m, est tot 4.5921m
+187541/265356 CS est rem 1.3414m, est tot 4.5743m
+190665/265356 CS est rem 1.2802m, est tot 4.5482m
+193725/265356 CS est rem 1.2231m, est tot 4.5308m
+196350/265356 CS est rem 1.1753m, est tot 4.5194m
+198926/265356 CS est rem 1.1282m, est tot 4.5067m
+201810/265356 CS est rem 1.0746m, est tot 4.4874m
+204630/265356 CS est rem 1.0228m, est tot 4.4694m
+207386/265356 CS est rem 0.97303m, est tot 4.4539m
+210410/265356 CS est rem 0.91825m, est tot 4.4345m
+213353/265356 CS est rem 0.86551m, est tot 4.4164m
+216215/265356 CS est rem 0.81538m, est tot 4.4029m
+219300/265356 CS est rem 0.76082m, est tot 4.3834m
+221991/265356 CS est rem 0.71489m, est tot 4.3744m
+224886/265356 CS est rem 0.66494m, est tot 4.3598m
+227955/265356 CS est rem 0.61205m, est tot 4.3423m
+230640/265356 CS est rem 0.56721m, est tot 4.3354m
+233478/265356 CS est rem 0.51916m, est tot 4.3214m
+236195/265356 CS est rem 0.47379m, est tot 4.3111m
+239250/265356 CS est rem 0.42248m, est tot 4.2942m
+242136/265356 CS est rem 0.37476m, est tot 4.2826m
+244853/265356 CS est rem 0.33016m, est tot 4.2728m
+247590/265356 CS est rem 0.28535m, est tot 4.2618m
+250305/265356 CS est rem 0.2412m, est tot 4.2522m
+253110/265356 CS est rem 0.19575m, est tot 4.2414m
+255903/265356 CS est rem 0.15074m, est tot 4.2309m
+258096/265356 CS est rem 0.11578m, est tot 4.2311m
+260700/265356 CS est rem 0.074127m, est tot 4.2238m
+263403/265356 CS est rem 0.031044m, est tot 4.2158m
+21-Nov-2016 17:20:34
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+-- caught error!
+Index exceeds matrix dimensions.
+21-Nov-2016 17:20:35
+21-Nov-2016 17:20:47
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+-- caught error!
+Index exceeds matrix dimensions.
+21-Nov-2016 17:20:48
+21-Nov-2016 17:22:02
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+-- caught error!
+Index exceeds matrix dimensions.
+21-Nov-2016 17:22:02
+21-Nov-2016 17:46:01
+-> ComputeSimilarities called.
+   Input directory: ./
+         (writing log-file to input directory)
+   Output file: ./distance_matrix.txt
+start computing distances ...
+2906/265356 CS est rem 0m, est tot 0m
+5796/265356 CS est rem 1.6537m, est tot 1.6906m
+8670/265356 CS est rem 2.1248m, est tot 2.1966m
+11528/265356 CS est rem 2.4791m, est tot 2.5917m
+14370/265356 CS est rem 2.6205m, est tot 2.7705m
+17196/265356 CS est rem 2.6717m, est tot 2.8568m
+20006/265356 CS est rem 2.7041m, est tot 2.9246m
+22800/265356 CS est rem 2.7274m, est tot 2.9838m
+26270/265356 CS est rem 2.6433m, est tot 2.9337m
+29715/265356 CS est rem 2.631m, est tot 2.9627m
+33135/265356 CS est rem 2.6186m, est tot 2.9922m
+36530/265356 CS est rem 2.5978m, est tot 3.0125m
+39900/265356 CS est rem 2.5667m, est tot 3.0209m
+43245/265356 CS est rem 2.5373m, est tot 3.0313m
+46565/265356 CS est rem 2.513m, est tot 3.0478m
+49860/265356 CS est rem 2.4835m, est tot 3.0581m
+53130/265356 CS est rem 2.4511m, est tot 3.0647m
+56375/265356 CS est rem 2.4192m, est tot 3.0718m
+59595/265356 CS est rem 2.3897m, est tot 3.0818m
+62790/265356 CS est rem 2.3579m, est tot 3.0887m
+65960/265356 CS est rem 2.3266m, est tot 3.0962m
+69105/265356 CS est rem 2.2934m, est tot 3.101m
+72225/265356 CS est rem 2.2596m, est tot 3.1046m
+75320/265356 CS est rem 2.2258m, est tot 3.108m
+78390/265356 CS est rem 2.1922m, est tot 3.1113m
+81435/265356 CS est rem 2.1586m, est tot 3.1144m
+84455/265356 CS est rem 2.1247m, est tot 3.1166m
+87450/265356 CS est rem 2.092m, est tot 3.1203m
+90420/265356 CS est rem 2.0614m, est tot 3.1269m
+93365/265356 CS est rem 2.0303m, est tot 3.1325m
+96285/265356 CS est rem 1.9988m, est tot 3.1371m
+99180/265356 CS est rem 1.9704m, est tot 3.1464m
+102050/265356 CS est rem 1.9389m, est tot 3.1505m
+104895/265356 CS est rem 1.9107m, est tot 3.1598m
+107715/265356 CS est rem 1.8801m, est tot 3.1648m
+111066/265356 CS est rem 1.8345m, est tot 3.155m
+114381/265356 CS est rem 1.7973m, est tot 3.1589m
+117116/265356 CS est rem 1.7755m, est tot 3.1782m
+119826/265356 CS est rem 1.7456m, est tot 3.1829m
+123045/265356 CS est rem 1.7021m, est tot 3.1737m
+126228/265356 CS est rem 1.6664m, est tot 3.1784m
+129375/265356 CS est rem 1.6318m, est tot 3.1842m
+131970/265356 CS est rem 1.6091m, est tot 3.2011m
+135051/265356 CS est rem 1.5702m, est tot 3.1975m
+137591/265356 CS est rem 1.5479m, est tot 3.2147m
+140106/265356 CS est rem 1.5206m, est tot 3.2215m
+143091/265356 CS est rem 1.4832m, est tot 3.2189m
+146040/265356 CS est rem 1.4496m, est tot 3.2239m
+148953/265356 CS est rem 1.417m, est tot 3.2303m
+151830/265356 CS est rem 1.3852m, est tot 3.2377m
+154671/265356 CS est rem 1.3538m, est tot 3.2456m
+157476/265356 CS est rem 1.3232m, est tot 3.2548m
+160245/265356 CS est rem 1.2921m, est tot 3.2618m
+162978/265356 CS est rem 1.2619m, est tot 3.2706m
+165675/265356 CS est rem 1.2308m, est tot 3.2765m
+168336/265356 CS est rem 1.1996m, est tot 3.2809m
+170961/265356 CS est rem 1.1687m, est tot 3.2854m
+173550/265356 CS est rem 1.1379m, est tot 3.2889m
+176103/265356 CS est rem 1.108m, est tot 3.2941m
+179036/265356 CS est rem 1.0704m, est tot 3.2906m
+181511/265356 CS est rem 1.0435m, est tot 3.3024m
+184353/265356 CS est rem 1.008m, est tot 3.302m
+187146/265356 CS est rem 0.97467m, est tot 3.3069m
+189890/265356 CS est rem 0.94176m, est tot 3.3114m
+192966/265356 CS est rem 0.90205m, est tot 3.3065m
+195978/265356 CS est rem 0.8655m, est tot 3.3103m
+198561/265356 CS est rem 0.83503m, est tot 3.3173m
+201095/265356 CS est rem 0.80428m, est tot 3.3211m
+203931/265356 CS est rem 0.76874m, est tot 3.3209m
+206703/265356 CS est rem 0.73424m, est tot 3.3218m
+209411/265356 CS est rem 0.70066m, est tot 3.3233m
+212381/265356 CS est rem 0.66288m, est tot 3.3204m
+215270/265356 CS est rem 0.62679m, est tot 3.3207m
+218078/265356 CS est rem 0.59209m, est tot 3.3231m
+221103/265356 CS est rem 0.55402m, est tot 3.322m
+223740/265356 CS est rem 0.52178m, est tot 3.3269m
+226575/265356 CS est rem 0.48611m, est tot 3.3261m
+229310/265356 CS est rem 0.45212m, est tot 3.3283m
+231945/265356 CS est rem 0.41926m, est tot 3.3297m
+234480/265356 CS est rem 0.38778m, est tot 3.3326m
+237153/265356 CS est rem 0.35427m, est tot 3.3331m
+239931/265356 CS est rem 0.31931m, est tot 3.3325m
+242565/265356 CS est rem 0.28655m, est tot 3.3361m
+245256/265356 CS est rem 0.25284m, est tot 3.3378m
+247965/265356 CS est rem 0.21873m, est tot 3.3372m
+250650/265356 CS est rem 0.18502m, est tot 3.3383m
+253575/265356 CS est rem 0.14815m, est tot 3.3365m
+256176/265356 CS est rem 0.11554m, est tot 3.3396m
+258686/265356 CS est rem 0.084013m, est tot 3.3418m
+261440/265356 CS est rem 0.049317m, est tot 3.3409m
+264081/265356 CS est rem 0.016071m, est tot 3.342m
+done. exiting ...
+21-Nov-2016 17:49:21
